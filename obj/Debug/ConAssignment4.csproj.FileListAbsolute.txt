@@ -1,0 +1,8 @@
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\bin\Debug\ConAssignment4.exe.config
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\bin\Debug\ConAssignment4.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\bin\Debug\ConAssignment4.pdb
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\obj\Debug\ConAssignment4.csproj.AssemblyReference.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\obj\Debug\ConAssignment4.csproj.SuggestedBindingRedirects.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\obj\Debug\ConAssignment4.csproj.CoreCompileInputs.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\obj\Debug\ConAssignment4.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Assignment\Assignment4\ConAssignment4\ConAssignment4\obj\Debug\ConAssignment4.pdb
